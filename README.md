@@ -9,13 +9,12 @@ I’ve developed and deployed real-time projects across domains like healthcare,
 
 ## 🌐 Website URL
 
-🔗 [Visit My Portfolio](https://amitsoni05.github.io/amitportfolio/))
+🔗 [Visit My Portfolio](https://amitsoni05.github.io/amitportfolio/)
 
 ## 🛠️ Technologies Used
 
 - HTML5, CSS3, Bootstrap
 - JavaScript, jQuery
-- ASP.NET Core (for deployed projects)
 - Git & GitHub Pages for hosting
 
 ## 📁 Projects Featured
